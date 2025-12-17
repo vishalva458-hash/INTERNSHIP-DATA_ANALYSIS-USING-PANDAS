@@ -14,6 +14,7 @@ PROJECT PROCEDURE REFERENCE
 4.HANDLING MISSING DATA
 
 CODE FOR MY PROJECT
+
 import pandas as pd
 # Load the dataset
 df = pd.read_excel("Indian Ecommerce_Orders.xlsx")
