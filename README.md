@@ -72,6 +72,7 @@ fashion_city = (
     .sum()
     .idxmax()
 )
+
 print("\nTop City for Fashion Category:", fashion_city)
 
 
